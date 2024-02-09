@@ -12,6 +12,8 @@ import projectNine from "./images/projects/projectNine.jpeg";
 import projectTen from "./images/projects/projectTen.jpg";
 import projectEleven from "./images/projects/projectEleven.jpg";
 import projectTwelve from "./images/projects/projectTwelve.jpg";
+import project13 from "./images/projects/project13.jpg";
+
 
 
 import testimonialOne from "./images/testmonial/testimonialOne.png";
@@ -35,6 +37,7 @@ export {
   projectTen,
   projectEleven,
   projectTwelve,
+  project13,
   testimonialOne,
   testimonialTwo,
   testimonialThree,

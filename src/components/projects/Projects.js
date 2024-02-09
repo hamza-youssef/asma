@@ -13,6 +13,7 @@ import {
   projectTen,
   projectEleven,
   projectTwelve,
+  project13,
 } from "../../assets/index";
 import ProjectsCard from "./ProjectsCard";
 
@@ -47,6 +48,12 @@ const Projects = () => {
           title="Euphoria "
           des=" Permanent acrylic marker on paper."
           src={projectTwelve}
+        />
+
+<ProjectsCard
+          title="Fusion "
+          des=" Watercolor & Permanent markers on paper."
+          src={project13}
         />
 
         <ProjectsCard
