@@ -27,7 +27,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          I dives into the depths of color and imagination. My canvas is my
+          I dive into the depth of colors and imagination. My canvas are my
           playground where I craft vibrant worlds inspired by life and nature.
           Join me on this artistic journey! 🎨✨ #Artist #Painter #Creativity
         </p>
